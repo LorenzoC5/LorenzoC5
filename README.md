@@ -20,8 +20,3 @@
 ![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoC5&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoC5&show_icons=true&theme=dracula)
 
-<div align= center>
- 
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
-
-</div>
