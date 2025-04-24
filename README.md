@@ -1,5 +1,5 @@
 ### 👋 Hi! My name is Lorenzo Cavalcante.
-- 🌱 I’m currently studying Computer Science at USP(University of São Paulo)
+- 🌱 I’m currently studying Economics Science at USP(University of São Paulo)
 
  **📫How to reach me:**
 
