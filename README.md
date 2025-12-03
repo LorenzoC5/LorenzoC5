@@ -1,7 +1,6 @@
 ### 👋 Hi! My name is Lorenzo Cavalcante.
 - 🌱 I’m currently studying Economics Science at USP(University of São Paulo)
 - ⚙️ Here's a bit of my best work, [Quant-AI Challenge 2025](https://github.com/Quant-IA-2025/main) and [Datathon FGV 2025](https://github.com/LorenzoC5/FGV-Datathon25)
-- 
  **📫How to reach me:**
 
   <a href="https://www.linkedin.com/in/lorenzo-cavalcante-1b90992a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
